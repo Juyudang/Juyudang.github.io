@@ -1,8 +1,19 @@
 ---
 layout: post
-title:  "test2"
+title:  "포스팅 이렇게만 하자"
 date:   1999-12-31 15:49:51 +0900
 categories: jekyll update
 ---
 
-# do test
+# 포스팅 하는 법?
+
+_posts 디렉토리에
+
+파일명 : YYYY-MM-DD-name.md
+
+본문 : 맨위에 프론트 매터, 그리고 내용(웬만한 마크다운문법 적용됨)
+
+
+
+솔직히 기본 뼈대 복붙해서 고쳐나갈듯
+
