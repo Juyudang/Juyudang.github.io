@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "test2"
+date:   1999-12-31 15:49:51 +0900
+categories: jekyll update
+---
+
+# do test
